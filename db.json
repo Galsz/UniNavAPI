@@ -1,131 +1,130 @@
-
-    [
-        {
-            "id": 1,
-            "name": "Entrada Uniso",
-            "coordinates": {
-                "lng": -47.399520346081374,
-                "lat": -23.497054786489244
-            }
-        },
-        {
-            "id": 2,
-            "name": "Laboratório / Hospital Veterinário",
-            "coordinates": {
-                "lng": -47.395083566629694,
-                "lat": -23.498929039199425
-            }
-        },
-        {
-            "id": 3,
-            "name": "Quadra",
-            "coordinates": {
-                "lng": -47.39722226158912,
-                "lat": -23.501973482947065
-            }
-        },
-        {
-            "id": 4,
-            "name": "Bloco D",
-            "coordinates": {
-                "lng": -47.397412680723164,
-                "lat": -23.501419955327705
-            }
-        },
-        {
-            "id": 5,
-            "name": "Bloco C",
-            "coordinates": {
-                "lng": -47.39758873004271,
-                "lat": -23.50102457662112
-            }
-        },
-        {
-            "id": 6,
-            "name": "Bloco B",
-            "coordinates": {
-                "lng": -47.39784022907176,
-                "lat": -23.500681914116626
-            }
-        },
-        {
-            "id": 7,
-            "name": "Bloco A",
-            "coordinates": {
-                "lng": -47.3981923277118,
-                "lat": -23.500385378536734
-            }
-        },
-        {
-            "id": 8,
-            "name": "Saa / STHEMDA",
-            "coordinates": {
-                "lng": -47.39861628321739,
-                "lat": -23.500214046564764
-            }
-        },
-        {
-            "id": 9,
-            "name": "Biblioteca",
-            "coordinates": {
-                "lng": -47.39918754345425,
-                "lat": -23.499976818617455
-            }
-        },
-        {
-            "id": 10,
-            "name": "Bloco F",
-            "coordinates": {
-                "lng": -47.399751616385714,
-                "lat": -23.498915872061218
-            }
-        },
-        {
-            "id": 11,
-            "name": "Apoio 1",
-            "coordinates": { 
-                "lng": -47.39882825469934,
-                "lat": -23.500734633394174
-            }
-        },
-        {
-            "id": 12,
-            "name": "Apoio 2",
-            "coordinates": {
-                "lng": -47.39814561535303,
-                "lat": -23.50130793593965
-            }
-        },
-        {
-            "id": 13,
-            "name": "Apoio 3",
-            "coordinates": {
-                "lng": -47.40037760070726,
-                "lat": -23.499834496369047
-            }
-        },
-        {
-            "id": 14,
-            "name": "Apoio 4",
-            "coordinates": {
-                "lng": -47.40095987976042,
-                "lat": -23.500033257504427
-            }
-        },
-        {
-            "id": 15,
-            "name": "Bloco E",
-            "coordinates": {
-                "lng": -47.40066227046657,
-                "lat": -23.499573436512676
-            }
-        },
-        {
-            "id": 16,
-            "name": "Laboratório de Engenharia",
-            "coordinates": {
-                "lng": -47.39799673080981,
-                "lat": -23.502249277517322
-            }
+[
+    {
+    "id": 1,
+    "name": "Entrada Uniso",
+    "coordinates": {
+        "lng": -47.399520346081374,
+        "lat": -23.497054786489244
+    }
+    },
+    {
+        "id": 2,
+        "name": "Laboratório / Hospital Veterinário",
+        "coordinates": {
+            "lng": -47.395083566629694,
+            "lat": -23.498929039199425
         }
-    ]
+    },
+    {
+        "id": 3,
+        "name": "Quadra",
+        "coordinates": {
+            "lng": -47.39722226158912,
+            "lat": -23.501973482947065
+        }
+    },
+    {
+        "id": 4,
+        "name": "Bloco D",
+        "coordinates": {
+            "lng": -47.397412680723164,
+            "lat": -23.501419955327705
+        }
+    },
+    {
+        "id": 5,
+        "name": "Bloco C",
+        "coordinates": {
+            "lng": -47.39758873004271,
+            "lat": -23.50102457662112
+        }
+    },
+    {
+        "id": 6,
+        "name": "Bloco B",
+        "coordinates": {
+            "lng": -47.39784022907176,
+            "lat": -23.500681914116626
+        }
+    },
+    {
+        "id": 7,
+        "name": "Bloco A",
+        "coordinates": {
+            "lng": -47.3981923277118,
+            "lat": -23.500385378536734
+        }
+    },
+    {
+        "id": 8,
+        "name": "Saa / STHEMDA",
+        "coordinates": {
+            "lng": -47.39861628321739,
+            "lat": -23.500214046564764
+        }
+    },
+    {
+        "id": 9,
+        "name": "Biblioteca",
+        "coordinates": {
+            "lng": -47.39918754345425,
+            "lat": -23.499976818617455
+        }
+    },
+    {
+        "id": 10,
+        "name": "Bloco F",
+        "coordinates": {
+            "lng": -47.399751616385714,
+            "lat": -23.498915872061218
+        }
+    },
+    {
+        "id": 11,
+        "name": "Apoio 1",
+        "coordinates": { 
+            "lng": -47.39882825469934,
+            "lat": -23.500734633394174
+        }
+    },
+    {
+        "id": 12,
+        "name": "Apoio 2",
+        "coordinates": {
+            "lng": -47.39814561535303,
+            "lat": -23.50130793593965
+        }
+    },
+    {
+        "id": 13,
+        "name": "Apoio 3",
+        "coordinates": {
+            "lng": -47.40037760070726,
+            "lat": -23.499834496369047
+        }
+    },
+    {
+        "id": 14,
+        "name": "Apoio 4",
+        "coordinates": {
+            "lng": -47.40095987976042,
+            "lat": -23.500033257504427
+        }
+    },
+    {
+        "id": 15,
+        "name": "Bloco E",
+        "coordinates": {
+            "lng": -47.40066227046657,
+            "lat": -23.499573436512676
+        }
+    },
+    {
+        "id": 16,
+        "name": "Laboratório de Engenharia",
+        "coordinates": {
+            "lng": -47.39799673080981,
+            "lat": -23.502249277517322
+        }
+    }
+]
