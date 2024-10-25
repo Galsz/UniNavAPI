@@ -7,8 +7,8 @@ with open("db.json", encoding='utf-8') as json_file:
     data = json.load(json_file)
 
     bike_location = {
-    "lat": -23.50032060569367, 
-    "lng":  -47.397640478763826
+    "lat": None, 
+    "lng":  None
 }
 
 
